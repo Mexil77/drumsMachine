@@ -1,0 +1,2 @@
+#drum-machine{display:grid;background-color:#0ff;width:60%;grid-gap:10px;grid-template-columns:1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr 1fr 1fr;grid-template-areas:"tittle tittle tittle tittle" "buttonQ buttonW buttonE display" "buttonA buttonS buttonD display" "buttonZ buttonX buttonC display"}#title{grid-area:tittle}#display,#title{text-align:center}#display{grid-area:display}.drum-pad{width:100%;background-color:brown;border-radius:10px;font-size:40px;text-align:center}
+/*# sourceMappingURL=main.a77fe329.chunk.css.map */
